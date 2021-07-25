@@ -13,6 +13,7 @@
 A-differentiable-programming-method-for-quantum-control https://github.com/sailfish009/A-differentiable-programming-method-for-quantum-control
 ABChemoinformatics https://github.com/sailfish009/ABChemoinformatics
 abinit https://github.com/sailfish009/abinit
+Absolut https://github.com/sailfish009/Absolut
 abstract-reasoning-matrices https://github.com/sailfish009/abstract-reasoning-matrices
 Acai https://github.com/sailfish009/Acai
 accelerate https://github.com/sailfish009/accelerate
@@ -48,6 +49,7 @@ AINDNet https://github.com/sailfish009/AINDNet
 aiohttp https://github.com/sailfish009/aiohttp
 aiopipe https://github.com/sailfish009/aiopipe
 airflow https://github.com/sailfish009/airflow
+aistore https://github.com/sailfish009/aistore
 aizynthfinder https://github.com/sailfish009/aizynthfinder
 akka https://github.com/sailfish009/akka
 alacritty-theme https://github.com/sailfish009/alacritty-theme
@@ -56,7 +58,9 @@ albumentations https://github.com/sailfish009/albumentations
 ale https://github.com/sailfish009/ale
 alfabet https://github.com/sailfish009/alfabet
 alphafold https://github.com/sailfish009/alphafold
+alphafold-repl https://github.com/sailfish009/alphafold-repl
 alphafold2 https://github.com/sailfish009/alphafold2
+Alphafold2_talk https://github.com/sailfish009/Alphafold2_talk
 alphafold_pytorch https://github.com/sailfish009/alphafold_pytorch
 AlphaSMILES https://github.com/sailfish009/AlphaSMILES
 aLRPLoss https://github.com/sailfish009/aLRPLoss
@@ -64,6 +68,7 @@ altair https://github.com/sailfish009/altair
 Alter-Native https://github.com/sailfish009/Alter-Native
 alzheimers_parkinsons https://github.com/sailfish009/alzheimers_parkinsons
 AM-GCN https://github.com/sailfish009/AM-GCN
+Amazing-Semantic-Segmentation https://github.com/sailfish009/Amazing-Semantic-Segmentation
 amazon-braket-sdk-python https://github.com/sailfish009/amazon-braket-sdk-python
 ampal https://github.com/sailfish009/ampal
 AMPL https://github.com/sailfish009/AMPL
@@ -157,10 +162,13 @@ awesome-biology https://github.com/sailfish009/awesome-biology
 awesome-cheatsheets https://github.com/sailfish009/awesome-cheatsheets
 awesome-cheminformatics https://github.com/sailfish009/awesome-cheminformatics
 awesome-cryoem https://github.com/sailfish009/awesome-cryoem
+awesome-datascience https://github.com/sailfish009/awesome-datascience
 awesome-decision-tree-papers https://github.com/sailfish009/awesome-decision-tree-papers
+awesome-deep-gnn https://github.com/sailfish009/awesome-deep-gnn
 awesome-deep-vision https://github.com/sailfish009/awesome-deep-vision
 awesome-ehr-deeplearning https://github.com/sailfish009/awesome-ehr-deeplearning
 awesome-elixir https://github.com/sailfish009/awesome-elixir
+awesome-explainable-graph-reasoning https://github.com/sailfish009/awesome-explainable-graph-reasoning
 awesome-fp-js https://github.com/sailfish009/awesome-fp-js
 awesome-functional-python https://github.com/sailfish009/awesome-functional-python
 awesome-gan-for-medical-imaging https://github.com/sailfish009/awesome-gan-for-medical-imaging
@@ -188,6 +196,7 @@ awesome-rust https://github.com/sailfish009/awesome-rust
 awesome-scientific-python https://github.com/sailfish009/awesome-scientific-python
 awesome-self-supervised-gnn https://github.com/sailfish009/awesome-self-supervised-gnn
 awesome-self-supervised-learning https://github.com/sailfish009/awesome-self-supervised-learning
+Awesome-Self-Supervised-Papers https://github.com/sailfish009/Awesome-Self-Supervised-Papers
 awesome-semi-supervised-learning https://github.com/sailfish009/awesome-semi-supervised-learning
 awesome-source-analysis https://github.com/sailfish009/awesome-source-analysis
 awesome-text-generation https://github.com/sailfish009/awesome-text-generation
@@ -344,6 +353,7 @@ chembl_webresource_client https://github.com/sailfish009/chembl_webresource_clie
 cheminformatics https://github.com/sailfish009/cheminformatics
 cheminformatics_code https://github.com/sailfish009/cheminformatics_code
 chemml https://github.com/sailfish009/chemml
+ChemPlot https://github.com/sailfish009/ChemPlot
 chemprop https://github.com/sailfish009/chemprop
 CheTo https://github.com/sailfish009/CheTo
 chip-seq-pipeline2 https://github.com/sailfish009/chip-seq-pipeline2
@@ -395,6 +405,7 @@ cocoapi https://github.com/sailfish009/cocoapi
 coconut https://github.com/sailfish009/coconut
 code-cracker https://github.com/sailfish009/code-cracker
 CodeBERT https://github.com/sailfish009/CodeBERT
+CodeGen https://github.com/sailfish009/CodeGen
 codequery https://github.com/sailfish009/codequery
 coderx https://github.com/sailfish009/coderx
 cogdl https://github.com/sailfish009/cogdl
@@ -505,6 +516,7 @@ DAPPLE https://github.com/sailfish009/DAPPLE
 darknet https://github.com/sailfish009/darknet
 darkq https://github.com/sailfish009/darkq
 darkriscv https://github.com/sailfish009/darkriscv
+dask https://github.com/sailfish009/dask
 data-efficient-gans https://github.com/sailfish009/data-efficient-gans
 Data-Science-Cheatsheet https://github.com/sailfish009/Data-Science-Cheatsheet
 data-science-complete-tutorial https://github.com/sailfish009/data-science-complete-tutorial
@@ -543,6 +555,7 @@ deep-learning-model-convertor https://github.com/sailfish009/deep-learning-model
 Deep-Learning-Specialization-Coursera https://github.com/sailfish009/Deep-Learning-Specialization-Coursera
 deep-learning-uncertainty https://github.com/sailfish009/deep-learning-uncertainty
 deep-learning-v2-pytorch https://github.com/sailfish009/deep-learning-v2-pytorch
+deep-learning-visuals https://github.com/sailfish009/deep-learning-visuals
 Deep-Learning-with-PyTorch-Quick-Start-Guide https://github.com/sailfish009/Deep-Learning-with-PyTorch-Quick-Start-Guide
 deep-linear-network https://github.com/sailfish009/deep-linear-network
 deep-molecular-massspec https://github.com/sailfish009/deep-molecular-massspec
@@ -635,6 +648,8 @@ devol https://github.com/sailfish009/devol
 dgcnn https://github.com/sailfish009/dgcnn
 DGflow https://github.com/sailfish009/DGflow
 dgl https://github.com/sailfish009/dgl
+dgl-lifesci https://github.com/sailfish009/dgl-lifesci
+dgl-operator https://github.com/sailfish009/dgl-operator
 DGraphDTA https://github.com/sailfish009/DGraphDTA
 dha_htvs https://github.com/sailfish009/dha_htvs
 DiANNA https://github.com/sailfish009/DiANNA
@@ -684,6 +699,7 @@ dotty https://github.com/sailfish009/dotty
 double-conversion https://github.com/sailfish009/double-conversion
 doxypress https://github.com/sailfish009/doxypress
 DPDDI https://github.com/sailfish009/DPDDI
+DPPIN https://github.com/sailfish009/DPPIN
 draft https://github.com/sailfish009/draft
 Dragablz https://github.com/sailfish009/Dragablz
 drawing https://github.com/sailfish009/drawing
@@ -833,6 +849,7 @@ ffmpeg_h264_H3 https://github.com/sailfish009/ffmpeg_h264_H3
 FGVC https://github.com/sailfish009/FGVC
 fiber-await https://github.com/sailfish009/fiber-await
 filterpy https://github.com/sailfish009/filterpy
+FinRL https://github.com/sailfish009/FinRL
 fire-detection-cnn https://github.com/sailfish009/fire-detection-cnn
 firefox-csshacks https://github.com/sailfish009/firefox-csshacks
 firm-bf https://github.com/sailfish009/firm-bf
@@ -870,6 +887,7 @@ fn.py https://github.com/sailfish009/fn.py
 FNA https://github.com/sailfish009/FNA
 focal_loss_multi_class https://github.com/sailfish009/focal_loss_multi_class
 fold2seq https://github.com/sailfish009/fold2seq
+foldseek https://github.com/sailfish009/foldseek
 folly https://github.com/sailfish009/folly
 Font-Awesome https://github.com/sailfish009/Font-Awesome
 font_to_svg https://github.com/sailfish009/font_to_svg
@@ -916,6 +934,7 @@ gcc-rust https://github.com/sailfish009/gcc-rust
 GCKN https://github.com/sailfish009/GCKN
 gcmc https://github.com/sailfish009/gcmc
 gcn https://github.com/sailfish009/gcn
+GCN-LPA https://github.com/sailfish009/GCN-LPA
 GCNG https://github.com/sailfish009/GCNG
 gcnn_keras https://github.com/sailfish009/gcnn_keras
 gdb-frontend https://github.com/sailfish009/gdb-frontend
@@ -1033,6 +1052,7 @@ GSCNN https://github.com/sailfish009/GSCNN
 GSL https://github.com/sailfish009/GSL
 gst-plugin-cedar https://github.com/sailfish009/gst-plugin-cedar
 gsutil https://github.com/sailfish009/gsutil
+gtn https://github.com/sailfish009/gtn
 guacamol https://github.com/sailfish009/guacamol
 guake https://github.com/sailfish009/guake
 guetzli https://github.com/sailfish009/guetzli
@@ -1166,6 +1186,7 @@ inq https://github.com/sailfish009/inq
 instance-segmentation-pytorch https://github.com/sailfish009/instance-segmentation-pytorch
 intel_caffe https://github.com/sailfish009/intel_caffe
 interpretable_ml_drug_discovery https://github.com/sailfish009/interpretable_ml_drug_discovery
+invariant-point-attention https://github.com/sailfish009/invariant-point-attention
 invisible_man https://github.com/sailfish009/invisible_man
 involution https://github.com/sailfish009/involution
 IoU-aware-single-stage-object-detector https://github.com/sailfish009/IoU-aware-single-stage-object-detector
@@ -1316,6 +1337,7 @@ lightdock https://github.com/sailfish009/lightdock
 lightdock-rust https://github.com/sailfish009/lightdock-rust
 LightGraphs.jl https://github.com/sailfish009/LightGraphs.jl
 lightly https://github.com/sailfish009/lightly
+lightseq https://github.com/sailfish009/lightseq
 LigTMap https://github.com/sailfish009/LigTMap
 liif https://github.com/sailfish009/liif
 lincs https://github.com/sailfish009/lincs
@@ -1349,6 +1371,7 @@ loki https://github.com/sailfish009/loki
 longformer https://github.com/sailfish009/longformer
 LoopVectorization.jl https://github.com/sailfish009/LoopVectorization.jl
 loopy https://github.com/sailfish009/loopy
+loop_tool https://github.com/sailfish009/loop_tool
 LoRAS https://github.com/sailfish009/LoRAS
 loss-surface-simplexes https://github.com/sailfish009/loss-surface-simplexes
 Loss_ToolBox-PyTorch https://github.com/sailfish009/Loss_ToolBox-PyTorch
@@ -1444,6 +1467,7 @@ Meta-SAC https://github.com/sailfish009/Meta-SAC
 metacoq https://github.com/sailfish009/metacoq
 metadata-automation-challenge https://github.com/sailfish009/metadata-automation-challenge
 metal https://github.com/sailfish009/metal
+metalang99 https://github.com/sailfish009/metalang99
 metalearning-symmetries https://github.com/sailfish009/metalearning-symmetries
 metaml https://github.com/sailfish009/metaml
 MetaOptNet https://github.com/sailfish009/MetaOptNet
@@ -1599,6 +1623,7 @@ neovim-gtk https://github.com/sailfish009/neovim-gtk
 neovim_config https://github.com/sailfish009/neovim_config
 neovim_dark https://github.com/sailfish009/neovim_dark
 nerdtree https://github.com/sailfish009/nerdtree
+nervaluate https://github.com/sailfish009/nervaluate
 netbeans https://github.com/sailfish009/netbeans
 netdefender https://github.com/sailfish009/netdefender
 netket https://github.com/sailfish009/netket
@@ -1607,6 +1632,7 @@ neural-enhance https://github.com/sailfish009/neural-enhance
 Neural-Network-MNIST-CPP https://github.com/sailfish009/Neural-Network-MNIST-CPP
 Neural-Network-Projects-with-Python https://github.com/sailfish009/Neural-Network-Projects-with-Python
 neural-pipeline https://github.com/sailfish009/neural-pipeline
+neural-subgraph-learning-GNN https://github.com/sailfish009/neural-subgraph-learning-GNN
 neural-turing-machines https://github.com/sailfish009/neural-turing-machines
 neuro-vectorizer https://github.com/sailfish009/neuro-vectorizer
 Neutronium https://github.com/sailfish009/Neutronium
@@ -1626,14 +1652,17 @@ nix https://github.com/sailfish009/nix
 NLIL https://github.com/sailfish009/NLIL
 nlvm https://github.com/sailfish009/nlvm
 nmodl https://github.com/sailfish009/nmodl
+nmrgnn https://github.com/sailfish009/nmrgnn
 nn https://github.com/sailfish009/nn
 nnAudio https://github.com/sailfish009/nnAudio
 nng https://github.com/sailfish009/nng
 nni https://github.com/sailfish009/nni
 nnn https://github.com/sailfish009/nnn
 nnPUlearning https://github.com/sailfish009/nnPUlearning
+NNP_Ga2O3 https://github.com/sailfish009/NNP_Ga2O3
 nnUNet https://github.com/sailfish009/nnUNet
 node-postgres https://github.com/sailfish009/node-postgres
+NoisyAnchor https://github.com/sailfish009/NoisyAnchor
 noisystudent https://github.com/sailfish009/noisystudent
 non-parametric-transformers https://github.com/sailfish009/non-parametric-transformers
 nonechucks https://github.com/sailfish009/nonechucks
@@ -1817,6 +1846,7 @@ polledHiC https://github.com/sailfish009/polledHiC
 pollen https://github.com/sailfish009/pollen
 polyaxon https://github.com/sailfish009/polyaxon
 Polycode https://github.com/sailfish009/Polycode
+PolycrystalGraph https://github.com/sailfish009/PolycrystalGraph
 PolyFold https://github.com/sailfish009/PolyFold
 Polynomials.jl https://github.com/sailfish009/Polynomials.jl
 porous-material-AI-gym https://github.com/sailfish009/porous-material-AI-gym
@@ -1840,6 +1870,7 @@ pretrained-models.pytorch https://github.com/sailfish009/pretrained-models.pytor
 prettytable https://github.com/sailfish009/prettytable
 Prism https://github.com/sailfish009/Prism
 probflow https://github.com/sailfish009/probflow
+probnum https://github.com/sailfish009/probnum
 probtorch https://github.com/sailfish009/probtorch
 processify https://github.com/sailfish009/processify
 prodigy-drug-indication-annotation https://github.com/sailfish009/prodigy-drug-indication-annotation
@@ -1953,6 +1984,7 @@ pyprover https://github.com/sailfish009/pyprover
 pyquil https://github.com/sailfish009/pyquil
 Pyramidal-Cells-Segmentation https://github.com/sailfish009/Pyramidal-Cells-Segmentation
 pyridge https://github.com/sailfish009/pyridge
+PyRMD https://github.com/sailfish009/PyRMD
 pyscf https://github.com/sailfish009/pyscf
 pysftp https://github.com/sailfish009/pysftp
 pysmiles https://github.com/sailfish009/pysmiles
@@ -2040,6 +2072,7 @@ pywick https://github.com/sailfish009/pywick
 pywin32 https://github.com/sailfish009/pywin32
 qagnn https://github.com/sailfish009/qagnn
 qc https://github.com/sailfish009/qc
+qchem https://github.com/sailfish009/qchem
 QDeep https://github.com/sailfish009/QDeep
 qhoptim https://github.com/sailfish009/qhoptim
 qiqqa-open-source https://github.com/sailfish009/qiqqa-open-source
@@ -2048,6 +2081,7 @@ qiskit-metal https://github.com/sailfish009/qiskit-metal
 qm9_reduced_csv https://github.com/sailfish009/qm9_reduced_csv
 qmlnet https://github.com/sailfish009/qmlnet
 QMoM https://github.com/sailfish009/QMoM
+qmsolve https://github.com/sailfish009/qmsolve
 qsim https://github.com/sailfish009/qsim
 QT https://github.com/sailfish009/QT
 QtAV https://github.com/sailfish009/QtAV
@@ -2290,6 +2324,7 @@ simplest_directshow_example https://github.com/sailfish009/simplest_directshow_e
 simple_client https://github.com/sailfish009/simple_client
 simple_server https://github.com/sailfish009/simple_server
 simple_vue https://github.com/sailfish009/simple_vue
+simsiam https://github.com/sailfish009/simsiam
 single_file_libs https://github.com/sailfish009/single_file_libs
 SipMask https://github.com/sailfish009/SipMask
 SiT https://github.com/sailfish009/SiT
@@ -2353,11 +2388,13 @@ stb https://github.com/sailfish009/stb
 STCN https://github.com/sailfish009/STCN
 StereoConvNet https://github.com/sailfish009/StereoConvNet
 STFT_Transformer https://github.com/sailfish009/STFT_Transformer
+STGCN https://github.com/sailfish009/STGCN
 stk https://github.com/sailfish009/stk
 STL https://github.com/sailfish009/STL
 streamlit https://github.com/sailfish009/streamlit
 streamlit-drawable-canvas https://github.com/sailfish009/streamlit-drawable-canvas
 StreamPlayer https://github.com/sailfish009/StreamPlayer
+stringmol https://github.com/sailfish009/stringmol
 string_view-standalone https://github.com/sailfish009/string_view-standalone
 strndup https://github.com/sailfish009/strndup
 SubGNN https://github.com/sailfish009/SubGNN
@@ -2509,6 +2546,7 @@ training_results_v0.6 https://github.com/sailfish009/training_results_v0.6
 TrainYourOwnYOLO https://github.com/sailfish009/TrainYourOwnYOLO
 Transformer-Explainability https://github.com/sailfish009/Transformer-Explainability
 transformer-in-transformer https://github.com/sailfish009/transformer-in-transformer
+Transformer-in-Vision https://github.com/sailfish009/Transformer-in-Vision
 Transformer-Visualization https://github.com/sailfish009/Transformer-Visualization
 transformers https://github.com/sailfish009/transformers
 TransGAN https://github.com/sailfish009/TransGAN
@@ -2539,6 +2577,7 @@ ulisp https://github.com/sailfish009/ulisp
 ultimate-python https://github.com/sailfish009/ultimate-python
 ultra https://github.com/sailfish009/ultra
 UltraDeep https://github.com/sailfish009/UltraDeep
+unbiased-teacher https://github.com/sailfish009/unbiased-teacher
 unet https://github.com/sailfish009/unet
 UNet-family https://github.com/sailfish009/UNet-family
 UNet-Version https://github.com/sailfish009/UNet-Version
@@ -2659,42 +2698,3 @@ waymo-open-dataset https://github.com/sailfish009/waymo-open-dataset
 web-ext https://github.com/sailfish009/web-ext
 webcam-v4l2 https://github.com/sailfish009/webcam-v4l2
 wed https://github.com/sailfish009/wed
-Weighted-Boxes-Fusion https://github.com/sailfish009/Weighted-Boxes-Fusion
-weld https://github.com/sailfish009/weld
-wengan https://github.com/sailfish009/wengan
-wetectron https://github.com/sailfish009/wetectron
-wfc https://github.com/sailfish009/wfc
-wfqueue https://github.com/sailfish009/wfqueue
-wheatdetection https://github.com/sailfish009/wheatdetection
-wide-residual-networks https://github.com/sailfish009/wide-residual-networks
-WideResNet-pytorch https://github.com/sailfish009/WideResNet-pytorch
-wiki https://github.com/sailfish009/wiki
-windowless https://github.com/sailfish009/windowless
-windyquery https://github.com/sailfish009/windyquery
-wine https://github.com/sailfish009/wine
-winit https://github.com/sailfish009/winit
-Wink-Signals https://github.com/sailfish009/Wink-Signals
-winpython https://github.com/sailfish009/winpython
-WinREPL https://github.com/sailfish009/WinREPL
-winsw https://github.com/sailfish009/winsw
-worlds-simplest-csharp-wpf-mvvm-example https://github.com/sailfish009/worlds-simplest-csharp-wpf-mvvm-example
-wpf https://github.com/sailfish009/wpf
-WPF-MediaKit https://github.com/sailfish009/WPF-MediaKit
-WPF-UI-Framework https://github.com/sailfish009/WPF-UI-Framework
-WpfDesigner https://github.com/sailfish009/WpfDesigner
-wqueue https://github.com/sailfish009/wqueue
-WriteableBitmapEx https://github.com/sailfish009/WriteableBitmapEx
-wtl https://github.com/sailfish009/wtl
-wtl_dispatcher https://github.com/sailfish009/wtl_dispatcher
-wtl_video https://github.com/sailfish009/wtl_video
-x-transformers https://github.com/sailfish009/x-transformers
-x86-assembly-cheat https://github.com/sailfish009/x86-assembly-cheat
-x86-bare-metal-examples https://github.com/sailfish009/x86-bare-metal-examples
-x86_64 https://github.com/sailfish009/x86_64
-xarray https://github.com/sailfish009/xarray
-xclock https://github.com/sailfish009/xclock
-XenonPy https://github.com/sailfish009/XenonPy
-xi-win https://github.com/sailfish009/xi-win
-xlsw https://github.com/sailfish009/xlsw
-xlwt https://github.com/sailfish009/xlwt
-xprop https://github.com/sailfish009/xprop
