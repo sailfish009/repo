@@ -1164,6 +1164,7 @@ Graphormer https://github.com/sailfish009/Graphormer
 GraphRecipes.jl https://github.com/sailfish009/GraphRecipes.jl
 GraphSAGE https://github.com/sailfish009/GraphSAGE
 GraphSAINT https://github.com/sailfish009/GraphSAINT
+GraphScoreMatching https://github.com/sailfish009/GraphScoreMatching
 GraphSmote https://github.com/sailfish009/GraphSmote
 GraphTR https://github.com/sailfish009/GraphTR
 graphtransformer https://github.com/sailfish009/graphtransformer
@@ -2456,6 +2457,7 @@ riscv-llvm https://github.com/sailfish009/riscv-llvm
 riscv-rust-toolchain https://github.com/sailfish009/riscv-rust-toolchain
 risp https://github.com/sailfish009/risp
 risp-1 https://github.com/sailfish009/risp-1
+rl https://github.com/sailfish009/rl
 rlkit https://github.com/sailfish009/rlkit
 rlpyt https://github.com/sailfish009/rlpyt
 rMSA https://github.com/sailfish009/rMSA
@@ -2728,6 +2730,7 @@ sunxi-disp-tool https://github.com/sailfish009/sunxi-disp-tool
 sunxi-tools https://github.com/sailfish009/sunxi-tools
 SupContrast https://github.com/sailfish009/SupContrast
 super-productivity https://github.com/sailfish009/super-productivity
+SuperMat https://github.com/sailfish009/SuperMat
 superset https://github.com/sailfish009/superset
 supervised-reptile https://github.com/sailfish009/supervised-reptile
 supervised_pretraining_GN_WS https://github.com/sailfish009/supervised_pretraining_GN_WS
@@ -3041,9 +3044,12 @@ vueye-table https://github.com/sailfish009/vueye-table
 vue_hangul_ime https://github.com/sailfish009/vue_hangul_ime
 vue_storefront_next https://github.com/sailfish009/vue_storefront_next
 Vundle.vim https://github.com/sailfish009/Vundle.vim
+W-in-Coq https://github.com/sailfish009/W-in-Coq
 w32x https://github.com/sailfish009/w32x
+WannSymm https://github.com/sailfish009/WannSymm
 warp-ctc https://github.com/sailfish009/warp-ctc
 wasm https://github.com/sailfish009/wasm
+WassersteinGAN https://github.com/sailfish009/WassersteinGAN
 wavegan https://github.com/sailfish009/wavegan
 waymo-open-dataset https://github.com/sailfish009/waymo-open-dataset
 web-ext https://github.com/sailfish009/web-ext
@@ -3064,6 +3070,7 @@ windyquery https://github.com/sailfish009/windyquery
 wine https://github.com/sailfish009/wine
 winit https://github.com/sailfish009/winit
 Wink-Signals https://github.com/sailfish009/Wink-Signals
+winpty https://github.com/sailfish009/winpty
 winpython https://github.com/sailfish009/winpython
 WinREPL https://github.com/sailfish009/WinREPL
 winsw https://github.com/sailfish009/winsw
@@ -3089,6 +3096,7 @@ xlsw https://github.com/sailfish009/xlsw
 xlwt https://github.com/sailfish009/xlwt
 xprop https://github.com/sailfish009/xprop
 xray https://github.com/sailfish009/xray
+xrd-symmetry-prediction https://github.com/sailfish009/xrd-symmetry-prediction
 xspreadsheet https://github.com/sailfish009/xspreadsheet
 yacs https://github.com/sailfish009/yacs
 yaml-cpp https://github.com/sailfish009/yaml-cpp
@@ -3099,6 +3107,7 @@ Yet-Another-EfficientDet-Pytorch https://github.com/sailfish009/Yet-Another-Effi
 yolact https://github.com/sailfish009/yolact
 yolodet-pytorch https://github.com/sailfish009/yolodet-pytorch
 YOLOF https://github.com/sailfish009/YOLOF
+YOLOS https://github.com/sailfish009/YOLOS
 yolov3 https://github.com/sailfish009/yolov3
 yolov5 https://github.com/sailfish009/yolov5
 yolov5-net https://github.com/sailfish009/yolov5-net
